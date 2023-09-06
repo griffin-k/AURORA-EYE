@@ -8,7 +8,7 @@
 </p>
 
 ## ABOUT
-Aurora is a Telegram-based Android RAT (Remote Access Trojan) is a covert application that discreetly runs on Android devices. It operates silently and automatically sends device data whenever the device connects to the internet. Additionally, it listens for commands from an attacker via a Telegram bot and sends requested data back to the attacker. This RAT is designed to remain fully hidden, supporting the latest Android versions, and is intended to operate undetectably on the target device.
+Aurora-Eye is a Telegram-based Android RAT (Remote Access Trojan) is a covert application that discreetly runs on Android devices. It operates silently and automatically sends device data whenever the device connects to the internet. Additionally, it listens for commands from an attacker via a Telegram bot and sends requested data back to the attacker. This RAT is designed to remain fully hidden, supporting the latest Android versions, and is intended to operate undetectably on the target device.
 
 
 
@@ -150,7 +150,7 @@ fun getAppData(): AppData {
 
 
 
-h2 align="center">🔗 Contact and Social Media Accounts</h2>
+<h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
   <a href="https://t.me/CyberShieldX">
