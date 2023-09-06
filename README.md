@@ -49,10 +49,11 @@ Aurora-Eye is a Telegram-based Android RAT (Remote Access Trojan) is a covert ap
   </p>
 
 
-  ## SCREEN SHOTS
+  ## DASHBORD SCREEN SHOTS
   <div align="center">
   <img src="https://github.com/griffin-k/AURORA-EYE/blob/main/about-Images/2.png" alt="BOT SCREENSHOT">
 </div>
+  ## DATA RECIVED SCREEN SHOTS
 <div align="center">
   <img src="https://github.com/griffin-k/AURORA-EYE/blob/main/about-Images/3.png" alt="BOT SCREENSHOT">
 </div>
