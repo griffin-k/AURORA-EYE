@@ -36,17 +36,6 @@ Aurora-Eye is a Telegram-based Android RAT (Remote Access Trojan) is a covert ap
 - Undetectable by antivirus
 - Hidden App Auto get Permissions
 
-  <p align="center">
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  </p>
 
 
   ## DASHBORD SCREEN SHOTS
